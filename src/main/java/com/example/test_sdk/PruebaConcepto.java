@@ -1,5 +1,5 @@
 package com.example.test_sdk;
 
-public interface TestInterfac {
+public interface PruebaConcepto {
     public void Prueba();
 }
